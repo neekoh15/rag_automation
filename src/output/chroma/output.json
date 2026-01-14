@@ -1,0 +1,20 @@
+{
+    "targets": [
+        {
+            "url": "https://www.lasmarias.com.ar/",
+            "name": "Las Marias",
+            "description": "Las Marias is a yerbera in Corrientes, Argentina.",
+            "runs": [
+                {
+                    "success": true,
+                    "processed_at": "2026-01-14T09:58:44-03:00",
+                    "chroma": {
+                        "embedding_model": "Qwen/Qwen3-Embedding-0.6B",
+                        "collection_name": "las-marias",
+                        "collection_size": 2348
+                    }
+                }
+            ]
+        }
+    ]
+}
